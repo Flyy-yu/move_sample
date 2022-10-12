@@ -1,0 +1,8 @@
+---
+profiles:
+  testp:
+    private_key: "0xda7106f756f0dc81bfaf676623c690ebe6c3f45da092df4c160e775a04bce20a"
+    public_key: "0x5ecf0154e83e4eff363385e2b3fa47234ab034e19c96010b72d4a20f4ab961e5"
+    account: 773778a6c790f0fed13035e1628e1144afaedd788cf04e2ff0366a2cb171636e
+    rest_url: "https://fullnode.devnet.aptoslabs.com/v1"
+    faucet_url: "https://tap.devnet.prod.gcp.aptosdev.com/"

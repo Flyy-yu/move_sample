@@ -1,0 +1,21 @@
+---
+compiled_package_info:
+  package_name: coin_sample
+  address_alias_instantiation:
+    coin_sample: 773778a6c790f0fed13035e1628e1144afaedd788cf04e2ff0366a2cb171636e
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+  source_digest: 96D54F321544CBF4BEB49FFB9CB0DF6E53D66222FC8CC38AD82B24A80CA7D101
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses:
+      coin_sample: 773778a6c790f0fed13035e1628e1144afaedd788cf04e2ff0366a2cb171636e
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies:
+  - MoveStdlib
