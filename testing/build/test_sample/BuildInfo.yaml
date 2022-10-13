@@ -1,0 +1,19 @@
+---
+compiled_package_info:
+  package_name: test_sample
+  address_alias_instantiation:
+    std: "00000000000000000000000000000001"
+    test_sample: "00000000000000000000000000000002"
+  source_digest: A2CB8D89A952D252FD50CB71F5DCCA4F1ED8D116A5C8174674F237AA9FE5881B
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+dependencies:
+  - MoveStdlib
